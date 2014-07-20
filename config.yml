@@ -1,0 +1,9 @@
+yo_api_key: XX
+yo_username: XX
+campfire_domain: XX
+campfire_username: XX
+campfire_password: XX
+campfire_room: XX
+yo_mapping:
+  abc: abc_username
+  xyz: xyz_username
